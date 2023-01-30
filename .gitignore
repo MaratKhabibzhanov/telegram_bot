@@ -54,7 +54,7 @@ env/
 .idea/
 
 #.env
-config_data/.env
+.env
 
 # Current project
 experiment.py
